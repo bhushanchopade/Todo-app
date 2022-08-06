@@ -1,3 +1,19 @@
+# A Simple To Do App with CRUD Operations Using React Js.
+
+#Live Project Demo Link : https://todo-app-bhushan.netlify.app/
+
+#Git Repository Link : https://github.com/bhushanchopade/Todo-app.git
+
+# Features
+- Add a To Do Task,
+- Update a To Do Task,
+- Delete a To Do Task,
+
+/* To Do App Readmd */
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
